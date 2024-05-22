@@ -1,6 +1,0 @@
-vamsi
-is 
-learning
-the 
-here
-then i wrote some git commands
